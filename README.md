@@ -11,4 +11,7 @@ https://www.virtualbox.org/wiki/Downloads
 - Install
 https://git-scm.com/install/windows
 
+- WSL
+https://docs.docker.com/desktop/setup/install/windows-install/
+
 
