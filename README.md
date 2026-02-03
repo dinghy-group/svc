@@ -8,3 +8,7 @@ https://www.virtualbox.org/wiki/Downloads
 - Python course
   https://campus.gov.il/
 
+- Install
+https://git-scm.com/install/windows
+
+
