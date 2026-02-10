@@ -4,7 +4,7 @@
 
 1. Display the path of current directory
 2. Go to the log files folder
-3. Go to the home directory
+3. Go to the home directory and user
 
 ## 2. File & Directory Creation
 
@@ -14,7 +14,7 @@
 
 ## 3. Content Manipulation & Verification
 
-7. Under ~ folder create a file myfile.txt with content "I am a great devops" with one command
+7. Under home user folder create a file myfile.txt with content "I am a great devops" with one command
 8. Add second line to myfile.txt with content "and I would like to be an expert on Linux" with one command
 9. Check the existence of two lines in file
 
