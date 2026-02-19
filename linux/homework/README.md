@@ -13,3 +13,6 @@
 12. Move c folder to d folder and then create empty file in d folder​
 13. Back to the home dir and delete all folders and files ( a, b, d ) with one command​
 14. Display the history
+
+
+15. Do all steps with bash script
